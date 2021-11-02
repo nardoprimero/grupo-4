@@ -1,10 +1,30 @@
-log in para todas--> https://wireframe.cc/xJU3Q3
-registro para celular / tablet --> https://wireframe.cc/vlebGQ
-registro para pc--> https://wireframe.cc/yoOaEL
-carrito para celular y tablet --> https://wireframe.cc/12UvoK
-carrito para pc--> https://wireframe.cc/qDUtAv
-home para celular --> https://wireframe.cc/MUMAeK
-home para tablet --> por el momento creemos que es igual al home para PC.
-home para pc--> https://wireframe.cc/cdrh2a
+log in 
+    para pc--> https://wireframe.cc/xJU3Q3
+                LogIn.png
+    para tablet login-c-t.png
+    para celular login-c-t.png
+
+
+registro 
+    para pc--> https://wireframe.cc/yoOaEL
+                Registro.png
+    para tablet Registro-t.png
+    para celular --> https://wireframe.cc/vlebGQ
+                Registro-c.png
+
+carrito 
+    para pc--> https://wireframe.cc/qDUtAv
+                Carrito de Compras.PNG
+    para tablet --> Carrito de compras - tablet.PNG
+    para celular --> https://wireframe.cc/12UvoK
+                Carrito-de-Compras-c.PNG
+
+home 
+    para pc--> https://wireframe.cc/cdrh2a
+                Home.PNG
+    para tablet --> Home-t.PNG    
+    para celular --> https://wireframe.cc/MUMAeK
+                Home-c.PNG
+
 detalle de producto para celular --> https://wireframe.cc/MUMAeK
 
