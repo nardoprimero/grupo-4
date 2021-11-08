@@ -2,7 +2,7 @@
   "name": "grupo-4",
   "version": "1.0.0",
   "description": "trabajo practico e-commerce para una tienda de productos de electrónica",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
