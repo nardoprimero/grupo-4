@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <meta charset = "UTF-8">
+       <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+       <title> LyL</title>
+       <!--
+        Falta identificar la letra  y archivo css en el que van a estar los estilos 
+       <link href= 'https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap' rel = "stylesheet">
+       <link rel="stylesheet" href="css/formularios.css">
+       -->
+       <script src="https://kit.fontawesome.com/86d9955678.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+<form action = "/register" method = "POST">
+    <div class = "control-formulario">
+        <label for = "nombre">Nombre: </label>
+        <input type = "text" minlength ="3" name = "nombre" id = "nombre" class = "form-name">
+    </div>
+    <div  class = "control-formulario">
+        <label for = "apellido">Apellido: </label>
+        <input type = "text" minlength ="3" name = "apellido" id = "apellido" class = "form-name">
+    </div>
+    <div  class = "control-formulario">
+        <label for = "email">Email</label>
+        <input type = "email" name = "email" id = "email" class = "form-name">
+    </div>
+    <div  class = "control-formulario">
+        <label for = "password">Ingrese su contraseña</label>
+        <input type = "password" name = "password" id = "password" class = "form-name">
+    </div>
+    <div  class = "control-formulario">
+        <label for = "password2">Repita su contraseña</label>
+        <input type = "password" name = "password2" id = "password2" class = "form-name">
+    </div>
+    
+    <div  class = "control-formulario">
+        <input type = "submit" value = "Crear Cuenta">
+    </div>
+    <div  class = "control-formulario">
+        <label> ¿Ya sos usuario?</label>
+        <a href="/login"> <i class="fas fa-sign-in-alt"></i></a>
+    </div>
+    </form>
+</body>
