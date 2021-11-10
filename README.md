@@ -8,3 +8,8 @@ https://www.invidcomputers.com/ofertas.php
 https://www.gruponucleo.com.ar/
 https://www.elit.com.ar/
 https://www.outletdeinformatica.com.ar/
+
+
+Seguimiento en 
+https://trello.com/b/wduDg02L/fullstack
+
