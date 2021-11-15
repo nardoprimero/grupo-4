@@ -1,0 +1,34 @@
+*{
+    margin: 10px;
+    box-sizing:border-box;
+}
+
+/* agregar letra y colores segun determinemos */
+body{
+    font-family:  sans-serif; 
+    background-color: #ebebeb;
+    color:black;
+    max-width: 500px;
+    }
+
+/* ----------------------------------------*/
+
+.formulario{
+    padding: 10px 5px;
+}
+
+.control-formulario{
+    margin-bottom: 3px;
+    display: block;
+}
+.control-formulario label{
+    margin-bottom: 2px;
+    font-style: italic;
+    font-weight: bold;
+    display: block;
+}
+
+.form-name{
+    width: 100%;
+    border-radius: 5px;
+}
