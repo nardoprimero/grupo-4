@@ -3,7 +3,7 @@ Retro 1
 
 * Seguir Haciendo:
     Ponerle ganas. Por mas que no estemos seguros de lo que hacemos, es la manera de aprender y sacarlo adelante.
-* Hacer mas: 
+* Hacer mas:
     Comunicarnos.
     COnsultar con los compañeros del grupo.
 * Empezar a Hacer:
@@ -14,4 +14,7 @@ Retro 1
     Desaparecer sin aviso
 * Hacer menos:
     Tener miedo. Si no lo intentamos nunca vamos a poder hacerlo.
-    commit -m (en el primer sprint fueron muchos) 
+    commit -m (en el primer sprint fueron muchos)
+
+
+  +
