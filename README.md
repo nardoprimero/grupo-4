@@ -1,5 +1,7 @@
 # grupo-4
-trabajo practico e-commerce para una tienda de productos de electrónica
+trabajo practico e-commerce para una tienda de productos básicos de electrónica.
+
+Los clientes son personas que necesitan productos para uso hogareño en su gran mayoría. 
 
 Se toman como referencia las siguientes páginas:
 https://www.iarokinformatica.com.ar/
